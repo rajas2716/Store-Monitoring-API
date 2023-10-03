@@ -1,0 +1,16 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Django
+*.log
+*.sqlite3
+
+# VSCode
+.vscode/
+
+# Local development settings
+.env
